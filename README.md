@@ -23,7 +23,8 @@
 
 #### 1，首先安装ros对qt pkg的支持（非必须）
 
-melodic需要换成自己的ROS版本号
+melodic可以先安装一个简单的版本，再加上rviz， cvbridge之类
+
 
 ```cpp
 sudo apt-get install ros-melodic-qt-create
